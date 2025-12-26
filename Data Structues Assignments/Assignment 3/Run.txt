@@ -1,0 +1,5 @@
+Cups    $12.95
+Straws  $8.50
+Bottle  $45.0
+Plates  $12.0
+Total cost:     $78.45
